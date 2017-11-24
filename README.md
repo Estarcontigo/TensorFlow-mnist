@@ -11,4 +11,4 @@
 更改代码中的logdir,
 打开命令行cmd,
 输入tensorboard --logdir=C:/Users/Sheng/Desktop/tmp/mnist_with_summaries
-logdir改成你自己的，在浏览器中输入命令行运行出的网站
+logdir与代码中修改的保持一致，在浏览器中输入命令行运行出的网站
